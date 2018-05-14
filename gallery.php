@@ -10,6 +10,9 @@ and open the template in the editor.
         <title>Gallery Page</title>
     </head>
     <body>
+         <?php 
+        include '/header.php';
+        ?>
         <h1>Galley Page</h1>
         <div class="container">
             <div class="col-md-12">
